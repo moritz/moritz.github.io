@@ -2,6 +2,18 @@
 
 Human, father, geek, software developer, software architect, author of books.
 
+## Bio
+
+My name is Moritz Lenz. I was born in 1984, and studied physics from 2004 to 2009, and finished with a Master with Honours from [Heriot Watt University](https://hw.ac.uk/) and a German "Diplom" from [Universität Würzburg](https://www.uni-wuerzburg.de/).
+
+Since 2012 I am a professional software engineer, and later adopted further responsibilities like software architecture, and training and enabling other developers.
+
+Occasionally I present at conferences, company and community workshops and meetups and the likes.
+
+I have been intermittently blogging since 2008, and started writing technical books in 2016.
+
+Since about 2005 I have contributed to various Open Source projects, mostly around the [Perl](https://perl.org) and [Raku](https://raku.org) programming languages.
+
 ## Publications
 
 ### Books
@@ -22,3 +34,11 @@ Human, father, geek, software developer, software architect, author of books.
 ### Others
 
 I testified as an expert in front of a part of the German federal parliament on Open Source and interoperability [(press coverage in German)](https://www.heise.de/newsticker/meldung/Experten-im-Bundestag-Open-Source-braucht-keinen-Welpenschutz-1715027.html).
+
+## Other Interests
+
+Besides my interest in programming, Open Source, Software Engineering and Software Architecture, I pursue some other interests with varying degrees of enthusiasm and time commitment:
+
+* Table Tennis since around 2005 (with a two-year pause starting 2014), currently at [SpVgg Greuther Fürth](https://www.tt-greuther-fuerth.de/), previously at TV 1848 Erlangen and TSV 1877 e.V. Gerbrunn
+* I am low-key enthusiastic about cooking and baking. See my [recipe collection (German)](https://github.com/moritz/moritz-rezepte).
+* I play the [Tau Station](https://taustation.space/) text-based MMORPG, and have contributed some community works such as the [Tau Guide](https://taugui.de/) and [tracker for in-game data](https://tracker.tauguide.de/).
