@@ -42,3 +42,5 @@ Besides my interest in programming, Open Source, Software Engineering and Softwa
 * Table Tennis since around 2005 (with a two-year pause starting 2014), currently at [SpVgg Greuther Fürth](https://www.tt-greuther-fuerth.de/), previously at TV 1848 Erlangen and TSV 1877 e.V. Gerbrunn
 * I am low-key enthusiastic about cooking and baking. See my [recipe collection (German)](https://github.com/moritz/moritz-rezepte).
 * I play the [Tau Station](https://taustation.space/) text-based MMORPG, and have contributed some community works such as the [Tau Guide](https://taugui.de/) and [tracker for in-game data](https://tracker.tauguide.de/).
+* I follow spaceflight and astronomy from a distance, watch live-streamed rocket launches and the like.
+* I am interested in [Scientific skepticism](https://en.wikipedia.org/wiki/Skeptical_movement).
