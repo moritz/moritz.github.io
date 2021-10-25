@@ -8,7 +8,7 @@ My name is Moritz Lenz. I was born in 1984, and studied physics from 2004 to 200
 
 Since 2012 I am a professional software engineer, and later adopted further responsibilities like software architecture, and training and enabling other developers.
 
-Occasionally I present at conferences, company and community workshops and meetups and the likes.
+Occasionally I present at conferences, company and community workshops and meetups and the like.
 
 I have been intermittently blogging since 2008, and started writing technical books in 2016.
 
