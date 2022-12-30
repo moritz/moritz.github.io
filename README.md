@@ -39,8 +39,14 @@ I testified as an expert in front of a part of the German federal parliament on 
 
 Besides my interest in programming, Open Source, Software Engineering and Software Architecture, I pursue some other interests with varying degrees of enthusiasm and time commitment:
 
-* Table Tennis since around 2005 (with a two-year pause starting 2014), currently at [SpVgg Greuther Fürth](https://www.tt-greuther-fuerth.de/), previously at TV 1848 Erlangen and TSV 1877 e.V. Gerbrunn
+* Table Tennis since around 2005 (with a two-year pause starting 2014), currently at [SpVgg Greuther Fürth](https://www.tt-greuther-fuerth.de/), previously at TV 1848 Erlangen and TSV 1877 e.V. Gerbrunn.
 * I am low-key enthusiastic about cooking and baking. See my [recipe collection (German)](https://github.com/moritz/moritz-rezepte).
-* I play the [Tau Station](https://taustation.space/) text-based MMORPG, and have contributed some community works such as the [Tau Guide](https://taugui.de/) and [tracker for in-game data](https://tracker.tauguide.de/).
+* I sing in a choir
 * I follow spaceflight and astronomy from a distance, watch live-streamed rocket launches and the like.
 * I am interested in [Scientific skepticism](https://en.wikipedia.org/wiki/Skeptical_movement).
+
+## On Other Sites
+
+* [GitHub](https://github.com/moritz/)
+* [LinkedIn](https://www.linkedin.com/in/perlgeek/)
+* [mytischtennis.de](https://www.mytischtennis.de/clicktt/ByTTV/22-23/spieler/104034434/spielerportrait/)
