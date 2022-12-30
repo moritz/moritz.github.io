@@ -18,7 +18,7 @@ Since about 2005 I have contributed to various Open Source projects, mostly arou
 
 ### Books
 
-* [Perl 6 Fundamentals](https://www.apress.com/us/book/9781484228982), A Primer with Examples, Projects, and Case Studies, 2017, Apress Media. A new edition as [Raku Fundamentals](https://www.apress.com/us/book/9781484261088) is being prepared.
+* [Raku Fundamentals](https://www.apress.com/us/book/9781484261088), A Primer with Examples, Projects, and Case Studies, 2020, Apress Media. (First edition was [Perl 6 Fundamentals](https://www.apress.com/us/book/9781484228982), 2017, Apress Media).
 * [Parsing with Perl 6 Regexes and Grammars](https://www.apress.com/us/book/9781484232279), A Recursive Descent into Parsing, 2017, Apress Media
 * [Python Continuous Integration and Delivery](https://www.apress.com/us/book/9781484242803), A Concise Guide with Examples, 2019, Apress Media
 * [Pragmatic Debian Packaging](https://leanpub.com/debian), 2018-2020, Leanpub
